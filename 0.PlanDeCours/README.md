@@ -1,7 +1,7 @@
-# Plan De Cours
+# :school: Plan De Cours
 
 
-### Évaluation
+### :abacus: Évaluation
 
 - [ ]  Stratégies et pondération de l’évaluation
 
@@ -14,7 +14,7 @@
 | :three: | Évaluation sommative : Divers styles de programmation                                | 15 |
 
 
-### Déroulement du cours
+### :scroll: Déroulement du cours
 
 Le déroulement peut être modifié au besoin. La personne étudiante sera avisée.
 
