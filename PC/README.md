@@ -23,16 +23,7 @@ Le déroulement peut être modifié au besoin. La personne étudiante sera avis�
 | :one: | Exposé - Cycle de développement Exposé – Introduction au Python     | Notes de cours | Phases du cycle de développement |
 | :two: | Installation du système de développement Évaluation – Organigrammes | Notes de cours | Organigrammes                    |
 | :three: | Exercices – Types de données et opérateurs Exposé – Entrée/sortie Travail – Programmes simples Python | Notes de cours | int, str, float, list, tuple, etc |
-4
-Exposé – Programmer
-des décisions
-Exercices –
-expressions
-relationnelles
-Notes de cours
-Opérateurs relationnels et
-logiques, tables de vérité
-if - else
+| :four: | Exposé – Programmer des décisions Exercices – expressions relationnelles | Notes de cours | Opérateurs relationnels et logiques, tables de vérité if - else |
 Date Activités / Thèmes Ressources / module
 Résultat d’apprentissage
 visé
