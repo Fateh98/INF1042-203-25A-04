@@ -20,7 +20,7 @@ Le déroulement peut être modifié au besoin. La personne étudiante sera avis�
 
 | Période | Sem | Activités / Thèmes | Ressources/module |  Résultat d’apprentissage visé |
 |-|-|-|-|-|
-| 25-09-01 | :one: | Exposé - Cycle de développement Exposé – Introduction au Python     | Notes de cours | Phases du cycle de développement |
+| 01-Sep | :one: | Exposé - Cycle de développement Exposé – Introduction au Python     | Notes de cours | Phases du cycle de développement |
 
 | :two: | Installation du système de développement Évaluation – Organigrammes | Notes de cours | Organigrammes                    |
 | :three: | Exercices – Types de données et opérateurs Exposé – Entrée/sortie Travail – Programmes simples Python | Notes de cours | int, str, float, list, tuple, etc |
@@ -37,7 +37,24 @@ Le déroulement peut être modifié au besoin. La personne étudiante sera avis�
 | :one::four: | Évaluation – conception de programmes                                                 | Notes de cours | Semaine :one: à :one::three: |
 
 
-25-09-01
+01-Sep
+08-Sep
+15-Sep
+22-Sep
+29-Sep
+06-Oct
+13-Oct
+20-Oct
+27-Oct
+03-Nov
+10-Nov
+17-Nov
+24-Nov
+01-Dec
+08-Dec
+
+
+| 25-09-01
 25-09-08
 25-09-15
 25-09-22
