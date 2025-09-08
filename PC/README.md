@@ -26,33 +26,11 @@ Le déroulement peut être modifié au besoin. La personne étudiante sera avis�
 | :four: | Exposé – Programmer des décisions Exercices – expressions relationnelles             | Notes de cours | Opérateurs relationnels et logiques, tables de vérité if - else |
 | :five: | Exercices – Programmer des décisions Travail – Programmes qui prennent des décisions | Notes de cours | if - else - elif |
 | :six: | Exposé – utiliser un débogueur Exercices – débogueur                                  | Notes de cours  | Débogueur |
-| :seven: | Évaluation – Conception à l’aide du système intégré de développement                | Notes de cours | Concepts vus semaine 2 à 6 |
+| :seven: | Évaluation – Conception à l’aide du système intégré de développement                | Notes de cours | Concepts vus semaine :two: à :six: |
 | :eight: | Exposé – boucles Exercices - Programmes qui répètent des instructions              | Notes de cours | la boucle for |
 | :nine: |  Exposé – boucles Exercices - Programmes qui répètent des instructions (condition d'arrêt) | Notes de cours | La boucle while |
-| :one::zero: | Exposé – conception de fonctions Exercices – conception de fonctions                   | Notes de cours | def, global |
-| :one::one: | 
-Exposé – importation
-de modules
-Exercices –
-conception de et
-importation de
-modules
-Notes de cours import, from
-12
-Exposé – style de
-programmation
-Exercice –
-programmation
-Orientée-objet
-Notes de cours Classe, objet
-13
-Révision des concepts
-vus en classe
-Travail – style de
-programmation
-Notes de cours Semaine 1 à 12
-14
-Évaluation –
-conception de
-programmes
-Notes de cours Semaine 1 à 13
+| :one::zero: | Exposé – conception de fonctions Exercices – conception de fonctions                  | Notes de cours | def, global |
+| :one::one: |  Exposé – importation de modules Exercices – conception de et importation de modules   | Notes de cours | import, from |
+| :one::two: | Exposé – style de programmation Exercice – programmation Orientée-objet                | Notes de cours | Classe, objet |
+| :one::three: | Révision des concepts vus en classe Travail – style de programmation                 | Notes de cours | Semaine :one: à :one::two: |
+| :one::four: | Évaluation – conception de programmes                                                 | Notes de cours | Semaine :one: à :one::four: |
