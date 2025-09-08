@@ -5,7 +5,7 @@ Stratégies et pondération de l’évaluation
 
 |  Résultat d'apprentissage | Description | % |
 |-|-|-|
-| 1 | Évaluation sommative : Interprétation des différentes phases de cycle de développement | 10 |
+| :one: | Évaluation sommative : Interprétation des différentes phases de cycle de développement | 10 |
 
 2
 Travaux : Conception de divers
