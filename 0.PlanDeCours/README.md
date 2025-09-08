@@ -21,52 +21,18 @@ Le déroulement peut être modifié au besoin. La personne étudiante sera avis�
 | Période | Sem | Activités / Thèmes | Ressources/module |  Résultat d’apprentissage visé |
 |-|-|-|-|-|
 | 01-Sep | :one: | Exposé - Cycle de développement Exposé – Introduction au Python     | Notes de cours | Phases du cycle de développement |
-
-| :two: | Installation du système de développement Évaluation – Organigrammes | Notes de cours | Organigrammes                    |
-| :three: | Exercices – Types de données et opérateurs Exposé – Entrée/sortie Travail – Programmes simples Python | Notes de cours | int, str, float, list, tuple, etc |
-| :four: | Exposé – Programmer des décisions Exercices – expressions relationnelles             | Notes de cours | Opérateurs relationnels et logiques, tables de vérité if - else |
-| :five: | Exercices – Programmer des décisions Travail – Programmes qui prennent des décisions | Notes de cours | if - else - elif |
-| :six: | Exposé – utiliser un débogueur Exercices – débogueur                                  | Notes de cours  | Débogueur |
-| :seven: | Évaluation – Conception à l’aide du système intégré de développement                | Notes de cours | Concepts vus semaine :two: à :six: |
-| :eight: | Exposé – boucles Exercices - Programmes qui répètent des instructions              | Notes de cours | la boucle for |
-| :nine: |  Exposé – boucles Exercices - Programmes qui répètent des instructions (condition d'arrêt) | Notes de cours | La boucle while |
-| :one::zero: | Exposé – conception de fonctions Exercices – conception de fonctions                  | Notes de cours | def, global |
-| :one::one: |  Exposé – importation de modules Exercices – conception de et importation de modules   | Notes de cours | import, from |
-| :one::two: | Exposé – style de programmation Exercice – programmation Orientée-objet                | Notes de cours | Classe, objet |
-| :one::three: | Révision des concepts vus en classe Travail – style de programmation                 | Notes de cours | Semaine :one: à :one::two: |
-| :one::four: | Évaluation – conception de programmes                                                 | Notes de cours | Semaine :one: à :one::three: |
-
-
-01-Sep
-08-Sep
-15-Sep
-22-Sep
-29-Sep
-06-Oct
-13-Oct
-20-Oct
-27-Oct
-03-Nov
-10-Nov
-17-Nov
-24-Nov
-01-Dec
-08-Dec
-
-
-| 25-09-01
-25-09-08
-25-09-15
-25-09-22
-25-09-29
-25-10-06
-25-10-13
-25-10-20
-25-10-27
-25-11-03
-25-11-10
-25-11-17
-25-11-24
-25-12-01
-25-12-08
+| 08-Sep | :two: | Installation du système de développement Évaluation – Organigrammes | Notes de cours | Organigrammes                    |
+| 15-Sep | :three: | Exercices – Types de données et opérateurs Exposé – Entrée/sortie Travail – Programmes simples Python | Notes de cours | int, str, float, list, tuple, etc |
+| 22-Sep | :four: | Exposé – Programmer des décisions Exercices – expressions relationnelles             | Notes de cours | Opérateurs relationnels et logiques, tables de vérité if - else |
+| 29-Sep | :five: | Exercices – Programmer des décisions Travail – Programmes qui prennent des décisions | Notes de cours | if - else - elif |
+| 06-Oct | :six: | Exposé – utiliser un débogueur Exercices – débogueur                                  | Notes de cours  | Débogueur |
+| 13-Oct | :seven: | Évaluation – Conception à l’aide du système intégré de développement                | Notes de cours | Concepts vus semaine :two: à :six: |
+| 20-Oct | 
+| 27-Oct | :eight: | Exposé – boucles Exercices - Programmes qui répètent des instructions              | Notes de cours | la boucle for |
+| 03-Nov | :nine: |  Exposé – boucles Exercices - Programmes qui répètent des instructions (condition d'arrêt) | Notes de cours | La boucle while |
+| 10-Nov | :one::zero: | Exposé – conception de fonctions Exercices – conception de fonctions                  | Notes de cours | def, global |
+| 17-Nov | :one::one: |  Exposé – importation de modules Exercices – conception de et importation de modules   | Notes de cours | import, from |
+| 24-Nov | :one::two: | Exposé – style de programmation Exercice – programmation Orientée-objet                | Notes de cours | Classe, objet |
+| 01-Dec | :one::three: | Révision des concepts vus en classe Travail – style de programmation                 | Notes de cours | Semaine :one: à :one::two: |
+| 08-Dec | :one::four: | Évaluation – conception de programmes                                                 | Notes de cours | Semaine :one: à :one::three: |
 
