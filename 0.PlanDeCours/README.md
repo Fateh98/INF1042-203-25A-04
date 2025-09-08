@@ -27,7 +27,7 @@ Le déroulement peut être modifié au besoin. La personne étudiante sera avis�
 | 29-Sep | :five: | Exercices – Programmer des décisions Travail – Programmes qui prennent des décisions | Notes de cours | if - else - elif |
 | 06-Oct | :six: | Exposé – utiliser un débogueur Exercices – débogueur                                  | Notes de cours  | Débogueur |
 | 13-Oct | :seven: | Évaluation – Conception à l’aide du système intégré de développement                | Notes de cours | Concepts vus semaine :two: à :six: |
-| 20-Oct | 
+| 20-Oct | :books:
 | 27-Oct | :eight: | Exposé – boucles Exercices - Programmes qui répètent des instructions              | Notes de cours | la boucle for |
 | 03-Nov | :nine: |  Exposé – boucles Exercices - Programmes qui répètent des instructions (condition d'arrêt) | Notes de cours | La boucle while |
 | 10-Nov | :one::zero: | Exposé – conception de fonctions Exercices – conception de fonctions                  | Notes de cours | def, global |
