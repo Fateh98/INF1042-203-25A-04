@@ -20,29 +20,9 @@ Le déroulement peut être modifié au besoin. La personne étudiante sera avis�
 
 | Date | Activités / Thèmes | Ressources / module |  Résultat d’apprentissage visé |
 |-|-|-|
-
-1
-Exposé - Cycle de
-développement
-Exposé – Introduction
-au Python
-Notes de cours
-Phases du cycle de
-développement
-2
-Installation du
-système de
-développement
-Évaluation –
-Organigrammes
-Notes de cours Organigrammes
-3
-Exercices – Types de
-données et opérateurs
-Exposé – Entrée/sortie
-Travail – Programmes
-simples Python
-Notes de cours int, str, float, list, tuple, etc
+| :one: | Exposé - Cycle de développement Exposé – Introduction au Python     | Notes de cours | Phases du cycle de développement |
+| :two: | Installation du système de développement Évaluation – Organigrammes | Notes de cours | Organigrammes                    |
+| :three: | Exercices – Types de données et opérateurs Exposé – Entrée/sortie Travail – Programmes simples Python | Notes de cours | int, str, float, list, tuple, etc |
 4
 Exposé – Programmer
 des décisions
