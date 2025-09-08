@@ -18,7 +18,7 @@
 
 Le déroulement peut être modifié au besoin. La personne étudiante sera avisée.
 
-| Période | Semaine | Activités / Thèmes | Ressources/module |  Résultat d’apprentissage visé |
+| Période | Sem | Activités / Thèmes | Ressources/module |  Résultat d’apprentissage visé |
 |-|-|-|-|-|
 | 25-09-01 | :one: | Exposé - Cycle de développement Exposé – Introduction au Python     | Notes de cours | Phases du cycle de développement |
 
