@@ -1,7 +1,9 @@
 # Plan De Cours
 
 
-### Stratégies et pondération de l’évaluation
+### Évaluation
+
+- [ ]  Stratégies et pondération de l’évaluation
 
 |  Résultat d'apprentissage | Description | % |
 |-|-|-|
