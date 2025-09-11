@@ -2,4 +2,4 @@
 
 
 
-<img src=images/one piece wallpaper 01 [technorms].jpg width='50%' height='50%' > </img>
+<img src=images/onepiece.jpg width='50%' height='50%' > </img>
