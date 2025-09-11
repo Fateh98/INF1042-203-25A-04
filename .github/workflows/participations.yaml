@@ -16,7 +16,7 @@ jobs:
           ## Evaluating chapter 0.PlanDeCours
           ## 
           echo "Evaluating chapter 0.PlanDeCours Participation"
-          0.PlanDeCours
+          cd 0.PlanDeCours
           bash .scripts/run.sh
 
       - name: Commit files
