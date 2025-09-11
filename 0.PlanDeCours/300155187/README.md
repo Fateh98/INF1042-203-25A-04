@@ -2,4 +2,4 @@
 
 
 
-<img src="WhatsApp Image 2025-09-10 at 17.46.46" alt="mon image">
+<img src="WhatsApp Image 2025-09-10 at 17.46.46" alt="mon image" width='50%' height='50%'>
