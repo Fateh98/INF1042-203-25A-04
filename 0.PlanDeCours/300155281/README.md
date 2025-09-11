@@ -2,4 +2,4 @@
 
 
 
-<img src="Images/fleur.jpg" alt="Fleur" width="20%" height="50%"> </img>
+<img src="Images/fleur.JPG" alt="Fleur" width="20%" height="50%"> </img>
