@@ -21,7 +21,7 @@ Le déroulement peut être modifié au besoin. La personne étudiante sera avis�
 | Période | Sem | Activités / Thèmes | Ressources/module |  Résultat d’apprentissage visé |
 |-|-|-|-|-|
 | 08-Sep | :one: | Exposé - Cycle de développement Exposé – Introduction au Python     | Notes de cours | Phases du cycle de développement |
-| 15-Sep | :two: | Évaluation – Conception à l’aide du système intégré de développement                | Notes de cours | git, commandes |
+| 15-Sep | :two: | Évaluation – Conception à l’aide du système intégré de développement                | Notes de cours | git, commandes, Package Manager |
 | 22-Sep | :three: | Installation du système de développement Évaluation – Organigrammes | Notes de cours | Organigrammes                    |
 | 29-Sep | :four: | Exercices – Types de données et opérateurs Exposé – Entrée/sortie Travail – Programmes simples Python | Notes de cours | int, str, float, list, tuple, etc |
 | 06-Oct | :five: | Exposé – Programmer des décisions Exercices – expressions relationnelles             | Notes de cours | Opérateurs relationnels et logiques, tables de vérité if - else |
