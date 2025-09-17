@@ -1,5 +1,8 @@
 # **cycle de développement**
 
+
+<img src=images/ChatGPTCycleDeDevelopment.png width='50%' height='50%' > </img>
+
 Le **cycle de développement** d’un projet (logiciel, produit ou système) se décompose généralement en plusieurs **phases successives**, parfois itératives, permettant d’organiser et de structurer le travail.
 Voici les **phases classiques du cycle de développement** (appelé aussi cycle de vie) :
 
