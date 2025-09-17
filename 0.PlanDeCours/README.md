@@ -15,20 +15,6 @@
 - [ ] Ajouter des images dans le répertoire `images`
 - [ ] Ajouter les images au fichier `README.md`
 
-:bulb: [Tutoriel sur GIT](https://github.com/CollegeBoreal/Tutoriels/tree/main/0.GIT)
-
-## :b: Azure Education
-
-:round_pushpin: S'enregistrer à Azure éducation 
-
-- [ ] [Portail Azure](https://portal.azure.com) 
-- [ ] [Le Menu Education](https://portal.azure.com/#view/Microsoft_Azure_Education/EducationMenuBlade)
-
-## :ab: VPN
-
-- [ ] [VPN: Demande d'accès ](https://services.collegeboreal.ca)
-
-
 # References
 
 ---
