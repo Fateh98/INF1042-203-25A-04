@@ -24,10 +24,10 @@ Le déroulement peut être modifié au besoin. La personne étudiante sera avis�
 | 15-Sep | :two: | Installation du système de développement Évaluation – Organigrammes | Notes de cours | Organigrammes                    |
 | 22-Sep | :three: | Exercices – Types de données et opérateurs Exposé – Entrée/sortie Travail – Programmes simples Python | Notes de cours | int, str, float, list, tuple, etc |
 | 29-Sep | :four: | Exposé – Programmer des décisions Exercices – expressions relationnelles             | Notes de cours | Opérateurs relationnels et logiques, tables de vérité if - else |
-
 | 06-Oct | :five: | Exercices – Programmer des décisions Travail – Programmes qui prennent des décisions | Notes de cours | if - else - elif |
 | 13-Oct | :six: | Exposé – utiliser un débogueur Exercices – débogueur                                  | Notes de cours  | Débogueur |
 | 20-Oct | :books:
+
 | 27-Oct | :seven: | Évaluation – Conception à l’aide du système intégré de développement                | Notes de cours | Concepts vus semaine :two: à :six: |
 | 03-Nov | :eight: | Exposé – boucles Exercices - Programmes qui répètent des instructions              | Notes de cours | la boucle for |
 | 10-Nov | :nine: |  Exposé – boucles Exercices - Programmes qui répètent des instructions (condition d'arrêt) | Notes de cours | La boucle while |
